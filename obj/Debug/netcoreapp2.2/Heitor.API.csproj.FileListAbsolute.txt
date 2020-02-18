@@ -1,0 +1,14 @@
+C:\Repositorios\Heitor.API\bin\Debug\netcoreapp2.2\Heitor.API.deps.json
+C:\Repositorios\Heitor.API\bin\Debug\netcoreapp2.2\Heitor.API.runtimeconfig.json
+C:\Repositorios\Heitor.API\bin\Debug\netcoreapp2.2\Heitor.API.runtimeconfig.dev.json
+C:\Repositorios\Heitor.API\bin\Debug\netcoreapp2.2\Heitor.API.dll
+C:\Repositorios\Heitor.API\bin\Debug\netcoreapp2.2\Heitor.API.pdb
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.csprojAssemblyReference.cache
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.csproj.CoreCompileInputs.cache
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.RazorAssemblyInfo.cache
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.RazorAssemblyInfo.cs
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.AssemblyInfoInputs.cache
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.AssemblyInfo.cs
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.RazorTargetAssemblyInfo.cache
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.dll
+C:\Repositorios\Heitor.API\obj\Debug\netcoreapp2.2\Heitor.API.pdb
